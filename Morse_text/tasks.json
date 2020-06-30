@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Morse",
+            "command": "C:\\mingw64\\mingw32\\bin\\gcc.exe",
+            "args": [
+                "-g",
+                "E:\\Code\\BuiNhatMinh\\Morse.c",
+                "-o",
+                "E:\\Code\\BuiNhatMinh\\Morse.exe"             
+            ],
+            "options": {
+                "cwd": "C:/mingw64/mingw32/bin"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        
+    ]
+}
