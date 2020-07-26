@@ -1,3 +1,7 @@
 # decode_morse_text
 
-Chuyển mã Morse trong 1 file txt vào Chữ thường trong 1 file txt khác và ngược lại
+Check Characters in a Txt file 
+
+If Characters are Morse code, convert them to Alphabets and save in another Txt file 
+
+If Characters are Alphabets, convert them to Morse code and save in another Txt file
